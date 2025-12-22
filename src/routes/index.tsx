@@ -5,5 +5,8 @@ export const Route = createFileRoute('/')({
 })
 
 function RouteComponent() {
-  return <div>Hello "/"!</div>
+  return <div>
+    <h1>The reason I made this boilerplate</h1>
+    <p>I have done these steps mutliple times, for multiple projects, and I'm too lazy to repeat the same thing over and over and over again.</p>
+  </div>
 }
