@@ -7,6 +7,7 @@ A boilerplate for my frontend projects, including the following:
   <li>Tanstack Form paired with Zod for form inputs</li>
   <li>Shad/cn for UI</li>
   <li>Redux for global state management</li>
+  <li>Vite as the bundler</li>
 </ul>
 
 # DISCLAIMER ⚠️⚠️⚠️
